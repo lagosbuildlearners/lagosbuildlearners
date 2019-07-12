@@ -30,7 +30,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - devGeorgeOwi - George Owoicho Adah - Lead.
 - minimoha - root - Lead.
 - DavidT2019 - Tolulope David - Member
-
+-rajiidris -Rib-Lead
 - Example Name - [@github-handle] - @Lagosbuildlearners/team-name - Position (ENUMS[Member, Lead])
 
 
