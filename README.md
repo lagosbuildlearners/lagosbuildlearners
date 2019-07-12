@@ -26,8 +26,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 
 ## Collaborators
 - GELGIT - sparkide25 - Member.
-
-- peterito - peter olumide oyebamiji - Lead
+- peterito - peter olumide oyebamiji - Lead.
 
 - Example Name - [@github-handle] - @Lagosbuildlearners/team-name - Position (ENUMS[Member, Lead])
 
