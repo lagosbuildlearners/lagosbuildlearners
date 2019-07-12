@@ -26,6 +26,6 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 
 ## Collaborators
 
-- Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
+- Example Name - [@github-handle] - @Lagosbuildlearners/team-name - Position (ENUMS[Member, Lead])
 
 
