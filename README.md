@@ -29,6 +29,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - peterito - peter olumide oyebamiji - Lead.
 - devGeorgeOwi - George Owoicho Adah - Lead.
 - minimoha - root - Lead.
+- DavidT2019 - Tolulope David - Member
 
 - Example Name - [@github-handle] - @Lagosbuildlearners/team-name - Position (ENUMS[Member, Lead])
 
