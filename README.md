@@ -25,6 +25,7 @@ The most important thing! Please update the README.md with your name in collabor
 That will be lots of issue. Yea! true, but this provide a public archive to help track progress and how things will be over the next few months. Good Luck Developers! Happy Hacking!
 
 ## Collaborators
+- GELGIT - sparkide25 - Member.
 
 - peterito - peter olumide oyebamiji - Lead
 
