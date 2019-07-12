@@ -10,6 +10,6 @@ NAME: Muhammed Adegbola
 SLACK NAME: root
 EMAIL: muhammedopeyemi5@gmail.com
 
-NAME:
-SLACK NAME:
-EMAIL:
+NAME: Ajewole Tolulope David
+SLACK NAME:Tolulope David
+EMAIL: ajewole.tolulope1@gmail.com
