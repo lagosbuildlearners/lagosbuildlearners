@@ -6,6 +6,10 @@ NAME: George Owoicho Adah
 SLACK NAME: George Owi
 EMAIL: owoichogeorge4400@gmail.com
 
+NAME: Muhammed Adegbola
+SLACK NAME: root
+EMAIL: muhammedopeyemi5@gmail.com
+
 NAME:
 SLACK NAME:
 EMAIL:
