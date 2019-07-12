@@ -18,6 +18,6 @@ NAME:Abraham Adeolu Yawson
 SLACK NAME:Abraham Adeolu Yawson
 EMAIL:abadeolu@gmail.com
 
-NAME:
-SLACK NAME:
-EMAIL:
+NAME: Mangai Stephen Mahanan
+SLACK NAME: Stephen Mangai  
+EMAIL: greenwizintern@gmail.com
