@@ -33,6 +33,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - DavidT2019 - Tolulope David - Member
 -rajiidris -Rib-Lead
 - mahanan - Stephen Mangai - Member
+-Ahmodu4rela89-Ahmodu Ismaila Ibrahim-Member
 - Example Name - [@github-handle] - @Lagosbuildlearners/team-name - Position (ENUMS[Member, Lead])
 
 
