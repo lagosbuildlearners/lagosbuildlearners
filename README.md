@@ -34,6 +34,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 -rajiidris -Rib-Lead
 - mahanan - Stephen Mangai - Member
 -Ahmodu4rela89-Ahmodu Ismaila Ibrahim-Member
+- samspecial - Samuel Osinloye - Member
 - Example Name - [@github-handle] - @Lagosbuildlearners/team-name - Position (ENUMS[Member, Lead])
 
 
